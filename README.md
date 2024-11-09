@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gauthier-det
 - 👀 I’m interested in IT, music, books, travels...
-- 🌱 I’m currently learning IT, databases, development
-- 📫 How to reach me : gauthier.detroussel@gmail.com , linkedin.com/in/gauthier-detroussel/
+- 🌱 I’m currently learning IT, databases, development in a B.U.T. Info.
+- 📫 How to reach me : gauthier.detroussel@gmail.com , linkedin.com/in/gauthier-detroussel/ 
 - ⚡ Fun fact : I like MERISE modeling :)
